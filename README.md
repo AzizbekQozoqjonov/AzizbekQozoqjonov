@@ -23,7 +23,7 @@
 - ⚡ Fun fact **I have an amazing ability to learn everything in the first attempt.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://t.me/asys_asys" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/284/690/png-transparent-telegram-logo-computer-icons-telegram-logo-blue-angle-triangle-thumbnail.png" alt="aqozoqjonov" height="30" width="40" /></a>
 <a href="https://twitter.com/aqozoqjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aqozoqjonov" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asys" height="30" width="40" /></a>
 <a href="https://fb.com/azizbek.qozoqjonov.off" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azizbek.qozoqjonov.off" height="30" width="40" /></a>
