@@ -37,5 +37,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/n2wbcgpre7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="asys" /></a></p><br><br>
 
-<p><img align=" top right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbekqozoqjonov&show_icons=true&locale=en&layout=compact" alt="azizbekqozoqjonov" /></p>
+<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbekqozoqjonov&show_icons=true&locale=en&layout=compact" alt="azizbekqozoqjonov" /></p>
 
