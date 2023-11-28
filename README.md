@@ -39,6 +39,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbekqozoqjonov&show_icons=true&locale=en&layout=compact" alt="azizbekqozoqjonov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbekqozoqjonov&show_icons=true&locale=en" alt="azizbekqozoqjonov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizbekqozoqjonov&" alt="azizbekqozoqjonov" /></p>
