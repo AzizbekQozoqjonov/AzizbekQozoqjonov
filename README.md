@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekqozoqjonov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekqozoqjonov" /> </p>
 
-- 🔭 I’m currently working on [ACTIWE](https://github.com/AzizbekQozoqjonov/actiwe)
+- 🔭 I’m currently working on [Nodir Car Auction](https://nodircarauction.com)
 
 - 🌱 I’m currently learning **Django (Backend), THREE.js, WEBgl ect...**
 
